@@ -44,7 +44,7 @@ Netflix-Clone/
 sh
 Copy
 Edit
-git clone https://github.com/your-username/netflix-clone.git
+git clone https://github.com/Rahul-Kumar-Ram/Netflix-Clone.git
 cd netflix-clone
 2️⃣ Install dependencies
 
